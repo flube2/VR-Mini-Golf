@@ -1,0 +1,19 @@
+Models 
+Putter - printable_models - https://free3d.com/3d-model/golf-club-putter-v01-sg--271408.html
+Putter V01 - printable_models - https://free3d.com/3d-model/golf-club-putter-v01-sg--271408.html
+Golf Ball - printable_models - https://free3d.com/3d-model/golf-ball-v1--411104.html
+Hockey Stick And Puck - zaurian868 - https://free3d.com/3d-model/hockey-stick-18165.html
+
+Environment
+Skybox - http://www.farmpeeps.com/fp_skyboxes.html
+10 Skybox pack - Wello Soft - https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack-day-night-32236
+
+Audio
+Bird Chirping Sounds - Alexander - http://www.orangefreesounds.com/free-birds-chirping-sound-effect/
+Wind Blowing - Alexander - http://www.orangefreesounds.com/wind-blowing/
+Golf Swing - https://www.freesoundeffects.com/free-sounds/golf-10105/
+Hockey Stick Swing - https://www.freesoundeffects.com/free-sounds/hockey-10106/
+
+Materials
+RGB for colors - rapidtables.com
+Ice Materials - Indiechest - https://assetstore.unity.com/packages/2d/textures-materials/ice-materials-133660
