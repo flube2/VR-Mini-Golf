@@ -1,8 +1,13 @@
 # VR-Mini-Golf
 
+Unity Version: 2018.2.17f1
+
+Size On Disk: 807MB
+
+
 Description:
 VR Mini Golf brings you onto a 2-hole mini golf course. Putt the golf ball into the hole in serene wilderness, and then do it again with a hockey puck on a frozen Antarctic lake.
-Developed in Unity 2018.2.17f1 for use with the HTC Vive through SteamVR.
+Developed in Unity for use with the HTC Vive through SteamVR.
 
 To Run:
 - Download this game as a zip file(green button above to the right)
