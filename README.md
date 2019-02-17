@@ -1,7 +1,24 @@
 # VR-Mini-Golf
 
-Open in Unity editor.
-Click play.
-There's a golf ball in level 1 that falls from the sky to go to level 2. This is for our presentation, as I'm not confident we can get a hole in one/two on the first try. To play disable it if you would like, or set Y position to 20 and activate in inspector when you want level 2.
+Description:
+VR Mini Golf brings you onto a 2-hole mini golf course. Putt the golf ball into the hole in serene wilderness, and then do it again with a hockey puck on a frozen Antarctic lake.
+Developed in Unity for use with the HTC Vive through SteamVR.
 
-We know this game is kind of broken. Switching the entire project with only 24 hrs remaining to work on was not the best idea, but this way it at least kind of works. I may reattempt VR Foosball in the near future as well as remaking this game (VR Mini Golf) albeit the proper way. 8 hrs work + 16 hrs troubleshooting = here you go!
+To Run:
+- Download this game as a zip file(green button above to the right)
+- Unzip the zip file
+- Navigate to /Builds/Windows
+- Connect and power on your headset (if using one)
+- Run the executable
+
+or 
+
+- Download and open with Unity
+
+Issues: 
+Collisions between the golf club and the golf ball are strange. If you swing the club at a decent speed, the collision between the club and the ball doesn't register. So you have to swing slowly and gently.
+Unity doesn't have cylindrical colliders as far as I can tell so I used a spherical collider for the puck. This is why the puck tumbles end over end instead of sliding across the ice.
+"I haven't got the ball into the hole but level 2 starts" - Initially this was done for presenting but after 2 minutes and 45 seconds, level 2 will automatically start. If there are issues with hole 1 or the player can't get the ball in the hole, they still get to play level 2.
+
+Sources:
+See SOURCES.txt for a list of all external resources such as models, materials, etc.
