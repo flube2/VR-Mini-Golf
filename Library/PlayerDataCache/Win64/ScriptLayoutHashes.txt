@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/Unity Projects/VR Mini Golf/Builds/VR Mini Golf.exe
+C:/Users/Admin/Desktop/pwd/VR-Mini-Golf/Builds/Windows/VR Mini Golf.exe
 SceneListBegin?
 Assets/Scenes/Hole 1.unity
 Assets/Scenes/Hole 2.unity
