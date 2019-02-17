@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Hole 2.unity
+- path: Assets/Scenes/Hole 1.unity
   isLoaded: 1
   isActive: 1

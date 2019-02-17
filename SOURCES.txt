@@ -11,8 +11,6 @@ Skybox - http://www.farmpeeps.com/fp_skyboxes.html
 Audio
 Bird Chirping Sounds - Alexander - http://www.orangefreesounds.com/free-birds-chirping-sound-effect/
 Wind Blowing - Alexander - http://www.orangefreesounds.com/wind-blowing/
-Golf Swing - https://www.freesoundeffects.com/free-sounds/golf-10105/
-Hockey Stick Swing - https://www.freesoundeffects.com/free-sounds/hockey-10106/
 
 Materials
 RGB for colors - rapidtables.com
