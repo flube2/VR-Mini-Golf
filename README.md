@@ -2,7 +2,7 @@
 
 Description:
 VR Mini Golf brings you onto a 2-hole mini golf course. Putt the golf ball into the hole in serene wilderness, and then do it again with a hockey puck on a frozen Antarctic lake.
-Developed in Unity for use with the HTC Vive through SteamVR.
+Developed in Unity 2018.2.17f1 for use with the HTC Vive through SteamVR.
 
 To Run:
 - Download this game as a zip file(green button above to the right)
@@ -13,7 +13,7 @@ To Run:
 
 or 
 
-- Download and open with Unity
+- Download and open with Unity 2018.2.17f1 and DO NOT update obsolete API's when asked.
 
 Issues: 
 Collisions between the golf club and the golf ball are strange. If you swing the club at a decent speed, the collision between the club and the ball doesn't register. So you have to swing slowly and gently.
