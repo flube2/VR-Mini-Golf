@@ -18,7 +18,7 @@ To Run:
 
 or 
 
-- Download and open with Unity 2018.2.17f1 and DO NOT update obsolete API's when asked.
+- Download and open with Unity 2018.2.17f1 and DO NOT update obsolete API's when asked. Installing Blender prevents the hole from disappering in the Unity editor.
 
 Issues: 
 Collisions between the golf club and the golf ball are strange. If you swing the club at a decent speed, the collision between the club and the ball doesn't register. So you have to swing slowly and gently.
