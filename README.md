@@ -1,7 +1,7 @@
 # VR-Mini-Golf
 
 Unity Version: 2018.2.17f1
-
+Platform - PC (Windows)
 Size On Disk: 807MB
 
 
