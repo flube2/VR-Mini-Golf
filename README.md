@@ -1,7 +1,11 @@
 # VR-Mini-Golf
 
+Website: https://sites.google.com/a/uic.edu/flubekcs491/virtual-reality/project-3-vr-mini-golf
+
 Unity Version: 2018.2.17f1
+
 Platform - PC (Windows)
+
 Size On Disk: 807MB
 
 
