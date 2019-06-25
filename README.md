@@ -14,7 +14,7 @@ VR Mini Golf brings you onto a 2-hole mini golf course. Putt the golf ball into 
 Developed in Unity for use with the HTC Vive through SteamVR.
 
 To Run:
-- Download this game as a zip file(green button above to the right)
+- Download this game as a zip file (green button above to the right)
 - Unzip the zip file
 - Navigate to /Builds/Windows
 - Connect and power on your headset (if using one)
